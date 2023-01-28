@@ -1,7 +1,7 @@
 # Prakash-sdk
 
 This is the java sdk for LOTR api.  Invoking is a 2 step process as follows;
-1. Build a lotr base sdk class using the builder like this "LOTR lotr = LOTRimpl.Builder().withAPIKey(<your api key>);"
+1. Build a lotr base sdk class using the builder like this "LOTR lotr = LOTRimpl.Builder().withAPIKey("your api key");"
 2. Using this class, invoke the api methods like this "lotr.getAllMovies();"
   
 Heres the screenshot of these two steps;
