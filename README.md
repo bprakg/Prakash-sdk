@@ -10,7 +10,8 @@ Heres the screenshot of these two steps;
 
 
 Screen shot of the result is here;
-<img width="1429" alt="Screenshot 2023-01-28 at 2 07 29 AM" src="https://user-images.githubusercontent.com/8314346/215260876-1c56a6ee-4979-4ae4-a58d-a08c30dd074b.png">
+<img width="1430" alt="Screenshot 2023-01-28 at 2 20 16 AM" src="https://user-images.githubusercontent.com/8314346/215261359-823f2af5-3c5a-4f26-9d4a-805696e65516.png">
+
 
 All operations of the api can be invoked through these interface methods;
 <img width="934" alt="Screenshot 2023-01-28 at 2 18 48 AM" src="https://user-images.githubusercontent.com/8314346/215261291-0a431255-cc96-4e6c-8627-c3e3ec3095a6.png">
